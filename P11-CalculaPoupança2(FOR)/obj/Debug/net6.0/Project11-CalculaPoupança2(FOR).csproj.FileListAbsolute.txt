@@ -1,0 +1,15 @@
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\P11-CalculaPoupança2(FOR)\bin\Debug\net6.0\Project11-CalculaPoupança2(FOR).exe
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\P11-CalculaPoupança2(FOR)\bin\Debug\net6.0\Project11-CalculaPoupança2(FOR).deps.json
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\P11-CalculaPoupança2(FOR)\bin\Debug\net6.0\Project11-CalculaPoupança2(FOR).runtimeconfig.json
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\P11-CalculaPoupança2(FOR)\bin\Debug\net6.0\Project11-CalculaPoupança2(FOR).dll
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\P11-CalculaPoupança2(FOR)\bin\Debug\net6.0\Project11-CalculaPoupança2(FOR).pdb
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\P11-CalculaPoupança2(FOR)\obj\Debug\net6.0\Project11-CalculaPoupança2(FOR).csproj.AssemblyReference.cache
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\P11-CalculaPoupança2(FOR)\obj\Debug\net6.0\Project11-CalculaPoupança2(FOR).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\P11-CalculaPoupança2(FOR)\obj\Debug\net6.0\Project11-CalculaPoupança2(FOR).AssemblyInfoInputs.cache
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\P11-CalculaPoupança2(FOR)\obj\Debug\net6.0\Project11-CalculaPoupança2(FOR).AssemblyInfo.cs
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\P11-CalculaPoupança2(FOR)\obj\Debug\net6.0\Project11-CalculaPoupança2(FOR).csproj.CoreCompileInputs.cache
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\P11-CalculaPoupança2(FOR)\obj\Debug\net6.0\Project11-CalculaPoupança2(FOR).dll
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\P11-CalculaPoupança2(FOR)\obj\Debug\net6.0\refint\Project11-CalculaPoupança2(FOR).dll
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\P11-CalculaPoupança2(FOR)\obj\Debug\net6.0\Project11-CalculaPoupança2(FOR).pdb
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\P11-CalculaPoupança2(FOR)\obj\Debug\net6.0\Project11-CalculaPoupança2(FOR).genruntimeconfig.cache
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\P11-CalculaPoupança2(FOR)\obj\Debug\net6.0\ref\Project11-CalculaPoupança2(FOR).dll

@@ -1,0 +1,15 @@
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\4-ConversaoDeVariaveis\bin\Debug\net6.0\4-ConversaoDeVariaveis.exe
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\4-ConversaoDeVariaveis\bin\Debug\net6.0\4-ConversaoDeVariaveis.deps.json
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\4-ConversaoDeVariaveis\bin\Debug\net6.0\4-ConversaoDeVariaveis.runtimeconfig.json
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\4-ConversaoDeVariaveis\bin\Debug\net6.0\4-ConversaoDeVariaveis.dll
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\4-ConversaoDeVariaveis\bin\Debug\net6.0\4-ConversaoDeVariaveis.pdb
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\4-ConversaoDeVariaveis\obj\Debug\net6.0\4-ConversaoDeVariaveis.csproj.AssemblyReference.cache
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\4-ConversaoDeVariaveis\obj\Debug\net6.0\4-ConversaoDeVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\4-ConversaoDeVariaveis\obj\Debug\net6.0\4-ConversaoDeVariaveis.AssemblyInfoInputs.cache
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\4-ConversaoDeVariaveis\obj\Debug\net6.0\4-ConversaoDeVariaveis.AssemblyInfo.cs
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\4-ConversaoDeVariaveis\obj\Debug\net6.0\4-ConversaoDeVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\4-ConversaoDeVariaveis\obj\Debug\net6.0\4-ConversaoDeVariaveis.dll
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\4-ConversaoDeVariaveis\obj\Debug\net6.0\refint\4-ConversaoDeVariaveis.dll
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\4-ConversaoDeVariaveis\obj\Debug\net6.0\4-ConversaoDeVariaveis.pdb
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\4-ConversaoDeVariaveis\obj\Debug\net6.0\4-ConversaoDeVariaveis.genruntimeconfig.cache
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\4-ConversaoDeVariaveis\obj\Debug\net6.0\ref\4-ConversaoDeVariaveis.dll

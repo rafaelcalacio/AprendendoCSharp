@@ -1,0 +1,15 @@
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\Project10-CalculaPoupança(while)\bin\Debug\net6.0\Project10-CalculaPoupança(while).exe
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\Project10-CalculaPoupança(while)\bin\Debug\net6.0\Project10-CalculaPoupança(while).deps.json
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\Project10-CalculaPoupança(while)\bin\Debug\net6.0\Project10-CalculaPoupança(while).runtimeconfig.json
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\Project10-CalculaPoupança(while)\bin\Debug\net6.0\Project10-CalculaPoupança(while).dll
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\Project10-CalculaPoupança(while)\bin\Debug\net6.0\Project10-CalculaPoupança(while).pdb
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\Project10-CalculaPoupança(while)\obj\Debug\net6.0\Project10-CalculaPoupança(while).csproj.AssemblyReference.cache
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\Project10-CalculaPoupança(while)\obj\Debug\net6.0\Project10-CalculaPoupança(while).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\Project10-CalculaPoupança(while)\obj\Debug\net6.0\Project10-CalculaPoupança(while).AssemblyInfoInputs.cache
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\Project10-CalculaPoupança(while)\obj\Debug\net6.0\Project10-CalculaPoupança(while).AssemblyInfo.cs
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\Project10-CalculaPoupança(while)\obj\Debug\net6.0\Project10-CalculaPoupança(while).csproj.CoreCompileInputs.cache
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\Project10-CalculaPoupança(while)\obj\Debug\net6.0\Project10-CalculaPoupança(while).dll
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\Project10-CalculaPoupança(while)\obj\Debug\net6.0\refint\Project10-CalculaPoupança(while).dll
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\Project10-CalculaPoupança(while)\obj\Debug\net6.0\Project10-CalculaPoupança(while).pdb
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\Project10-CalculaPoupança(while)\obj\Debug\net6.0\Project10-CalculaPoupança(while).genruntimeconfig.cache
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\Project10-CalculaPoupança(while)\obj\Debug\net6.0\ref\Project10-CalculaPoupança(while).dll

@@ -1,0 +1,15 @@
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\Project13-Break\bin\Debug\net6.0\Project13-Break.exe
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\Project13-Break\bin\Debug\net6.0\Project13-Break.deps.json
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\Project13-Break\bin\Debug\net6.0\Project13-Break.runtimeconfig.json
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\Project13-Break\bin\Debug\net6.0\Project13-Break.dll
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\Project13-Break\bin\Debug\net6.0\Project13-Break.pdb
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\Project13-Break\obj\Debug\net6.0\Project13-Break.csproj.AssemblyReference.cache
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\Project13-Break\obj\Debug\net6.0\Project13-Break.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\Project13-Break\obj\Debug\net6.0\Project13-Break.AssemblyInfoInputs.cache
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\Project13-Break\obj\Debug\net6.0\Project13-Break.AssemblyInfo.cs
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\Project13-Break\obj\Debug\net6.0\Project13-Break.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\Project13-Break\obj\Debug\net6.0\Project13-Break.dll
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\Project13-Break\obj\Debug\net6.0\refint\Project13-Break.dll
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\Project13-Break\obj\Debug\net6.0\Project13-Break.pdb
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\Project13-Break\obj\Debug\net6.0\Project13-Break.genruntimeconfig.cache
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\Project13-Break\obj\Debug\net6.0\ref\Project13-Break.dll

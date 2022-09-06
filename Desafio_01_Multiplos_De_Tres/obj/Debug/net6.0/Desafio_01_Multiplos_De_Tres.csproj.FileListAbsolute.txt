@@ -1,0 +1,15 @@
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\Desafio_01_Multiplos_De_Tres\bin\Debug\net6.0\Desafio_01_Multiplos_De_Tres.exe
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\Desafio_01_Multiplos_De_Tres\bin\Debug\net6.0\Desafio_01_Multiplos_De_Tres.deps.json
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\Desafio_01_Multiplos_De_Tres\bin\Debug\net6.0\Desafio_01_Multiplos_De_Tres.runtimeconfig.json
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\Desafio_01_Multiplos_De_Tres\bin\Debug\net6.0\Desafio_01_Multiplos_De_Tres.dll
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\Desafio_01_Multiplos_De_Tres\bin\Debug\net6.0\Desafio_01_Multiplos_De_Tres.pdb
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\Desafio_01_Multiplos_De_Tres\obj\Debug\net6.0\Desafio_01_Multiplos_De_Tres.csproj.AssemblyReference.cache
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\Desafio_01_Multiplos_De_Tres\obj\Debug\net6.0\Desafio_01_Multiplos_De_Tres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\Desafio_01_Multiplos_De_Tres\obj\Debug\net6.0\Desafio_01_Multiplos_De_Tres.AssemblyInfoInputs.cache
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\Desafio_01_Multiplos_De_Tres\obj\Debug\net6.0\Desafio_01_Multiplos_De_Tres.AssemblyInfo.cs
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\Desafio_01_Multiplos_De_Tres\obj\Debug\net6.0\Desafio_01_Multiplos_De_Tres.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\Desafio_01_Multiplos_De_Tres\obj\Debug\net6.0\Desafio_01_Multiplos_De_Tres.dll
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\Desafio_01_Multiplos_De_Tres\obj\Debug\net6.0\refint\Desafio_01_Multiplos_De_Tres.dll
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\Desafio_01_Multiplos_De_Tres\obj\Debug\net6.0\Desafio_01_Multiplos_De_Tres.pdb
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\Desafio_01_Multiplos_De_Tres\obj\Debug\net6.0\Desafio_01_Multiplos_De_Tres.genruntimeconfig.cache
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\Desafio_01_Multiplos_De_Tres\obj\Debug\net6.0\ref\Desafio_01_Multiplos_De_Tres.dll

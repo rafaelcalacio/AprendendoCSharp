@@ -1,0 +1,15 @@
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\3-VariaveisDoubleFloat\bin\Debug\net6.0\3-VariaveisDoubleFloat.exe
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\3-VariaveisDoubleFloat\bin\Debug\net6.0\3-VariaveisDoubleFloat.deps.json
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\3-VariaveisDoubleFloat\bin\Debug\net6.0\3-VariaveisDoubleFloat.runtimeconfig.json
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\3-VariaveisDoubleFloat\bin\Debug\net6.0\3-VariaveisDoubleFloat.dll
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\3-VariaveisDoubleFloat\bin\Debug\net6.0\3-VariaveisDoubleFloat.pdb
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\3-VariaveisDoubleFloat\obj\Debug\net6.0\3-VariaveisDoubleFloat.csproj.AssemblyReference.cache
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\3-VariaveisDoubleFloat\obj\Debug\net6.0\3-VariaveisDoubleFloat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\3-VariaveisDoubleFloat\obj\Debug\net6.0\3-VariaveisDoubleFloat.AssemblyInfoInputs.cache
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\3-VariaveisDoubleFloat\obj\Debug\net6.0\3-VariaveisDoubleFloat.AssemblyInfo.cs
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\3-VariaveisDoubleFloat\obj\Debug\net6.0\3-VariaveisDoubleFloat.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\3-VariaveisDoubleFloat\obj\Debug\net6.0\3-VariaveisDoubleFloat.dll
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\3-VariaveisDoubleFloat\obj\Debug\net6.0\refint\3-VariaveisDoubleFloat.dll
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\3-VariaveisDoubleFloat\obj\Debug\net6.0\3-VariaveisDoubleFloat.pdb
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\3-VariaveisDoubleFloat\obj\Debug\net6.0\3-VariaveisDoubleFloat.genruntimeconfig.cache
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\3-VariaveisDoubleFloat\obj\Debug\net6.0\ref\3-VariaveisDoubleFloat.dll

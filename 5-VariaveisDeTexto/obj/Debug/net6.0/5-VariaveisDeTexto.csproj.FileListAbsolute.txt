@@ -1,0 +1,15 @@
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\5-VariaveisDeTexto\bin\Debug\net6.0\5-VariaveisDeTexto.exe
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\5-VariaveisDeTexto\bin\Debug\net6.0\5-VariaveisDeTexto.deps.json
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\5-VariaveisDeTexto\bin\Debug\net6.0\5-VariaveisDeTexto.runtimeconfig.json
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\5-VariaveisDeTexto\bin\Debug\net6.0\5-VariaveisDeTexto.dll
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\5-VariaveisDeTexto\bin\Debug\net6.0\5-VariaveisDeTexto.pdb
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\5-VariaveisDeTexto\obj\Debug\net6.0\5-VariaveisDeTexto.csproj.AssemblyReference.cache
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\5-VariaveisDeTexto\obj\Debug\net6.0\5-VariaveisDeTexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\5-VariaveisDeTexto\obj\Debug\net6.0\5-VariaveisDeTexto.AssemblyInfoInputs.cache
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\5-VariaveisDeTexto\obj\Debug\net6.0\5-VariaveisDeTexto.AssemblyInfo.cs
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\5-VariaveisDeTexto\obj\Debug\net6.0\5-VariaveisDeTexto.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\5-VariaveisDeTexto\obj\Debug\net6.0\5-VariaveisDeTexto.dll
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\5-VariaveisDeTexto\obj\Debug\net6.0\refint\5-VariaveisDeTexto.dll
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\5-VariaveisDeTexto\obj\Debug\net6.0\5-VariaveisDeTexto.pdb
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\5-VariaveisDeTexto\obj\Debug\net6.0\5-VariaveisDeTexto.genruntimeconfig.cache
+C:\Users\Rafael Calacio\Aprendendo CSharp\AprendendoCSharp\5-VariaveisDeTexto\obj\Debug\net6.0\ref\5-VariaveisDeTexto.dll
